@@ -19,7 +19,7 @@
 
 <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> Exploring Technical Content Writing.
 
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> Playing guitar in my free time.
+<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock.
 
 <p></p>
 <p align='center'><h2>  :hammer_and_wrench: Languages and Tools </h2></p>
