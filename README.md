@@ -1,15 +1,17 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.postimg.cc/bwyPx1vt/download-4.gif" width="400"/>
 </div>
-<p align="center"> __________________________________</p>
-<div id="header-icons" align="center">
-  <a href=''><img src='https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif' width='80' height='80' /></a>
-  <a href=''><img src='https://img.gismonkey.com/images/telegram.gif' width='75' height='75' /></a>
+<div id='stroka' align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1DF756&center=true&width=545&height=60&lines=Front-end+developer+%26+UX%2FUI+designer" alt="Typing SVG" /></a>
 </div>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2370669662652797651/31B609569D3D933B2597D9DE1106D4FBD91639A7/" />
-<img src='https://img1.picmix.com/output/stamp/normal/5/3/8/9/279835_447be.gif' height='100' width='900' />
 
+<div  id="header-icons" align="center">
+  <a href=''><img src='https://i.postimg.cc/fWFn31G1/372108630-DISCORD-LOGO-400-1.gif' width='82' height='55'/></a>ㅤㅤ
+  <a href='https://t.me/klmnzki'><img src='https://i.postimg.cc/vZFJhfHz/telegram-1.gif' width='60' height='60' /></a>ㅤㅤ
+  <a href='https://www.donationalerts.com/r/berzergx'><img src='https://i.postimg.cc/65vsCYwq/hot-beverage-joypixels-1.gif' width='78' height='80' /></a>ㅤㅤ
+</div>
+<img id='neon-line' src="https://steamuserimages-a.akamaihd.net/ugc/2370669662652797651/31B609569D3D933B2597D9DE1106D4FBD91639A7/" />
 
 <p align='center'>  :hammer_and_wrench: Languages and Tools</p>
 
