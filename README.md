@@ -15,14 +15,14 @@
 <a href='#'></a><img id='neon-line' src="https://steamuserimages-a.akamaihd.net/ugc/2370669662652797651/31B609569D3D933B2597D9DE1106D4FBD91639A7/" /></a>
 <h1>:pushpin:About me:</h1>
 
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> I’m study as a Front-end developer and contributing to backend for building web applications.
+<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.
 
 <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> Exploring Technical Content Writing.
 
 <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> Playing guitar in my free time.
 
-
-<p align='center'>  :hammer_and_wrench: Languages and Tools</p>
+<p></p>
+<p align='center'><h2>  :hammer_and_wrench: Languages and Tools </h2></p>
 
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
