@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://i.postimg.cc/bwyPx1vt/download-4.gif" width="400"/>
+  <a href='https://github.com/Klmnzki' /><img src="https://i.postimg.cc/bwyPx1vt/download-4.gif" width="400"/></a>
+  
 </div>
 <div id='stroka' align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1DF756&center=true&width=545&height=60&lines=Front-end+developer+%26+UX%2FUI+designer" alt="Typing SVG" /></a>
