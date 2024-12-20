@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <a href='https://github.com/Klmnzki' /><img src="https://i.postimg.cc/PxyRt3rp/klmnzki2.gif" width="600"/></a>
+  <a href='https://github.com/Klmnzki' /><img src="https://i.postimg.cc/JzCv5Bgh/klmnzki2.gif" width="600"/></a>
   
 </div>
 <div id='stroka' align='center'>
