@@ -12,7 +12,7 @@
   <a href='https://t.me/klmnzki'><img src='https://i.postimg.cc/vZFJhfHz/telegram-1.gif' width='60' height='60' /></a>ㅤㅤ
   <a href='https://www.donationalerts.com/r/berzergx'><img src='https://i.postimg.cc/65vsCYwq/hot-beverage-joypixels-1.gif' width='78' height='80' /></a>ㅤㅤ
 </div>
-<a href='#'></a><img id='neon-line' src="https://steamuserimages-a.akamaihd.net/ugc/2370669662652797651/31B609569D3D933B2597D9DE1106D4FBD91639A7/" /></a>
+<a href='#'><img id='neon-line' align='center' src="https://steamuserimages-a.akamaihd.net/ugc/2443838570020147949/4539163CD08B349CE81FC6A0F87DA042724B23BF/" height='100' width='1500' /></a>
 <h1>:pushpin:About me:</h1>
 
 <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.
