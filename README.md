@@ -6,7 +6,7 @@
 <div align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1DF756&center=true&width=545&height=60&lines=Front-end+developer+%26+UX%2FUI+designer" alt="Typing SVG" /></a>
 </div>
-<!--hyperlinks-->
+<!--hyperlinks(ds,tg,donate)-->
 <div align="center">
   <a href='#'><img src='https://i.postimg.cc/fWFn31G1/372108630-DISCORD-LOGO-400-1.gif' width='82' height='55'/></a>ㅤㅤ
   <a href='https://t.me/klmnzki'><img src='https://i.postimg.cc/vZFJhfHz/telegram-1.gif' width='60' height='60' /></a>ㅤㅤ
@@ -15,12 +15,12 @@
 <!-- neon line-->
 <a href='#'><img align='center' src="https://steamuserimages-a.akamaihd.net/ugc/2443838570020147949/4539163CD08B349CE81FC6A0F87DA042724B23BF/" height='100' width='1500' /></a>
 <h1>:pushpin:About me:</h1>
-<!-- animation before text "about me"-->
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.
+<!-- animation before text about me -->
+<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.
 
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> Exploring Technical Content Writing.
+<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> Exploring Technical Content Writing.
 
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' widht='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock.
+<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock.
 
 <p></p>
 <p align='center'><h2>  :hammer_and_wrench: Languages and Tools </h2></p>
