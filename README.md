@@ -20,7 +20,7 @@
 <div>
   <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.<br>
   <br>
-  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> Exploring Technical Content Writing.<br>
+  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> Exploring Technical Content Writing. 🌿<br>
   <br>
   <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock.
 </div>
