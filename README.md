@@ -15,13 +15,15 @@
 <!-- neon line-->
 <a href='#'><img align='center' src="https://steamuserimages-a.akamaihd.net/ugc/2443838570020147949/4539163CD08B349CE81FC6A0F87DA042724B23BF/" height='100' width='1500' /></a>
 <h1>:pushpin:About me:</h1>
+
 <!-- animation before text about me -->
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.
-
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> Exploring Technical Content Writing.
-
-<img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock.
-
+<div>
+  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.<br>
+  <br>
+  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> Exploring Technical Content Writing.<br>
+  <br>
+  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock.
+</div>
 <p></p>
 <p align='center'><h2>  :hammer_and_wrench: Languages and Tools </h2></p>
 <!-- icons of the tools and lang-->
