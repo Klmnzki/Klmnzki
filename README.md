@@ -18,11 +18,11 @@
 
 <!-- animation before text about me -->
 <div>
-  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I position myself as a front-end developer, but sometimes I am also interested in the back-end direction.<br>
+  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I position myself as a software creator in the role of a junior in such areas as front-end & back-end.<br>
   <br>
   <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> Exploring Technical Content Writing. 🌿<br>
   <br>
-  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock.
+  <img src='https://media.tenor.com/6u7kXhsPPh0AAAAi/loading.gif' width='15' height='15' /> I spend my free time studying documentation, but sometimes I have to return to the physical world and play hard rock on my lovely guitar.
 </div>
 <p></p>
 <p align='center'><h2>  :hammer_and_wrench: Languages and Tools </h2></p>
