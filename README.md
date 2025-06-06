@@ -10,7 +10,7 @@
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://discord.gg/qsQPgxfDYV'><img src='https://img.icons8.com/color/discord--v2.png'/></a>&nbsp;&nbsp;&nbsp;ㅤ
   <a href='https://t.me/klmnzki'><img src='https://kivys.stripocdn.email/content/guids/CABINET_045d1e49435dca840ec28330e901fa9e/images/72661626089274299.png' width='60' height='60' /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://t.me/klmnzki'><img src='https://cdn4.iconfinder.com/data/icons/logo-brand/512/gmail_google_mail_email-64.png' width='60' height='60'  /></a>ㅤㅤ
+  <a href='hex.bers@yandex.ru'><img src='https://cdn4.iconfinder.com/data/icons/logo-brand/512/gmail_google_mail_email-64.png' width='60' height='60'  /></a>ㅤㅤ
   ㅤㅤ
 </div>
 <!-- neon line-->
